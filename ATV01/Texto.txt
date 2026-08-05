@@ -1,0 +1,11 @@
+https://br.linkedin.com/jobs/haskell-vagas?currentJobId=4443088296&position=5&pageNum=0 / VAGA NUBANK/RIO DE JANEIRO 
+
+O mercado de trabalho para a linguagem haskell é limitada por ser um nicho por ser uma linguagem complexa e lento aprendizado, com aproximadamente 20 vagas disponiveis no brasil e cerca de 400 a 1000 vagas no estados unidos, de acordo com o Linkedin e zipRecruiter.
+
+A Haskell é considerada a expressão máxima do paradigma funcional puro, servindo como o principal modelo prático dessa filosofia de programação. Em vez de instruir o computador com uma sequência de comandos que alteram dados na memória (como no paradigma imperativo), programar em Haskell significa definir o que o programa deve calcular por meio de equações e funções matemáticas. Como a linguagem proíbe efeitos colaterais ocultos, as funções são totalmente previsíveis: para o mesmo dado de entrada, o resultado será rigorosamente o mesmo.
+
+Faixa salarial (Em reais):
+Junior: ~6.500,00
+Pleno: ~11.000,00
+Sênior: ~18.000,00
+Em dólar: 8.000,00
