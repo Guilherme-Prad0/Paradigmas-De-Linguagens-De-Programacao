@@ -1,1 +1,5 @@
-"# Paradigmas-De-Linguagens-De-Programacao" 
+# REPOSITÓRIO PARA TRABALHOS DA DISCIPLINA PARADIGMAS DE PROGRAMAÇÃO
+
+## Guilherme Tamioso Bueno do Prado
+
+PROFESSOR: MUNIF
